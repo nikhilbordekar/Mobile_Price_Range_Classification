@@ -1,4 +1,8 @@
 # Mobile Price Range Classification
+
+![image](https://github.com/nikhilbordekar/Mobile_Price_Range_Classification/assets/121897260/513c576b-65d0-4255-ab99-e3914ee46f5a)
+
+
 **Overview**
 Welcome to the repository for my capstone project titled "Mobile Price Range Classification." This project focuses on building a classification model that can predict the price range of mobile phones based on various features. By analyzing mobile phone specifications and leveraging machine learning, we aim to develop a model that can accurately classify mobile phones into different price ranges.
 
